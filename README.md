@@ -1,6 +1,6 @@
-====================================
+============================================================================================================
          Elswah Augment Tool
-====================================
+============================================================================================================
 
 📌 Developer Plan Renew Instructions:
 
@@ -11,14 +11,17 @@
 
 ------------------------------------
 Please select an option:
+
 1️⃣  Remove Visual Studio Code
+
 2️⃣  Remove VS Code Insiders
+
 3️⃣  Exit
 
 Enter your choice (1-3): 
 ------------------------------------
 
-✅ After removal, reinstall VS Code and register with a new Google Account.
+✅ After removal, reinstall VS Code and augment tool then register with a new Google Account.
 Enjoy your renewed developer experience!
 
 
